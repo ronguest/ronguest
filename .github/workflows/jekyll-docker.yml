@@ -10,7 +10,6 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-    theme: minima
     
     steps:
     - uses: actions/checkout@v3
