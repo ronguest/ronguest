@@ -6,13 +6,12 @@ on:
   pull_request:
     branches: [ "main" ]
 
-theme: minima
-
 jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    theme: minima
+    
     steps:
     - uses: actions/checkout@v3
     - name: Build the site in the jekyll/builder container
