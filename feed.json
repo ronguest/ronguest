@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ronguest.micro.blog/2022/12/22/f-and-with.html",
+				
+				"content_html": "<p>❄ 14ºF and with light snow - blowing horizontally. 45mph gusts.</p>\n",
+				"content_text": "<p>❄ 14ºF and with light snow - blowing horizontally. 45mph gusts.</p>\n",
+				"date_published": "2022-12-22T11:33:18-06:00",
+				"url": "https://ronguest.net/2022/12/22/f-and-with.html"
+			},
+			{
+				"id": "http://ronguest.micro.blog/2022/12/14/im-getting-a.html",
+				
+				"content_html": "<p>I’m getting a 3D printer and I’m wondering if anyone can recommend a good guide to using Cura and 3D printing advice in general? There are a lot of videos but I’d prefer something easier to refer to as needed.<br /><a href=\"https://fosstodon.org/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a></p>\n",
+				"content_text": "<p>I’m getting a 3D printer and I’m wondering if anyone can recommend a good guide to using Cura and 3D printing advice in general? There are a lot of videos but I’d prefer something easier to refer to as needed.<br /><a href=\"https://fosstodon.org/tags/3dprinting\" class=\"mention hashtag\" rel=\"tag\">#<span>3dprinting</span></a></p>\n",
+				"date_published": "2022-12-14T16:04:10-06:00",
+				"url": "https://ronguest.net/2022/12/14/im-getting-a.html"
+			},
+			{
+				"id": "http://ronguest.micro.blog/2022/12/14/i-played-witcher.html",
+				
+				"content_html": "<p>I played Witcher 3 on the Nintendo Switch a few years ago but the new PS5 version is tempting me. I wonder if I’m up for a second play through? 🎮</p>\n",
+				"content_text": "<p>I played Witcher 3 on the Nintendo Switch a few years ago but the new PS5 version is tempting me. I wonder if I’m up for a second play through? 🎮</p>\n",
+				"date_published": "2022-12-14T14:13:28-06:00",
+				"url": "https://ronguest.net/2022/12/14/i-played-witcher.html"
+			},
+			{
 				"id": "http://ronguest.micro.blog/2022/12/14/i-dropped-my.html",
 				
 				"content_html": "<p>I dropped my Apple Pencil and it apparently landed on the tip. The plastic tip is fine but the pencil no longer works and the internal metal piece is bent. I’m glad new ones are on sale for $40 off right now!</p>\n",
@@ -1506,8 +1530,8 @@
 			{
 				"id": "http://ronguest.micro.blog/2022/07/08/134000.html",
 				
-				"content_html": "<p>Bag set 2 and the first 156 pages of the manual for the Lego BMW Motorrad are complete. I should complete it this weekend. Onward!</p>\n\n<p><img src=\"https://ronguest.net/uploads/2022/5c1687c8c0.jpg\" width=\"492\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Bag set 2 and the first 156 pages of the manual for the Lego BMW Motorrad are complete. I should complete it this weekend. Onward! \n\n<img src=\"https://ronguest.net/uploads/2022/5c1687c8c0.jpg\" width=\"492\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Bag set 2 and the first 156 pages of the manual for the Lego BMW Motorrad are complete. I should complete it this weekend. Onward!</p>\n\n<p><img src=\"uploads/2022/5c1687c8c0.jpg\" width=\"492\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bag set 2 and the first 156 pages of the manual for the Lego BMW Motorrad are complete. I should complete it this weekend. Onward! \n\n<img src=\"uploads/2022/5c1687c8c0.jpg\" width=\"492\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-08T12:40:00-06:00",
 				"url": "https://ronguest.net/2022/07/08/134000.html",
 				"tags": ["Photos","Timeline"]
@@ -2802,8 +2826,8 @@
 			{
 				"id": "http://ronguest.micro.blog/2022/02/08/steamy-cup-in.html",
 				
-				"content_html": "<p>Steamy cup in a bright sunny room ☕️</p>\n\n<p><img src=\"https://ronguest.net/uploads/2022/f0d018d16c.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Steamy cup in a bright sunny room ☕️ \n\n<img src=\"https://ronguest.net/uploads/2022/f0d018d16c.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Steamy cup in a bright sunny room ☕️</p>\n\n<p><img src=\"uploads/2022/f0d018d16c.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Steamy cup in a bright sunny room ☕️ \n\n<img src=\"uploads/2022/f0d018d16c.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-08T11:08:00-06:00",
 				"url": "https://ronguest.net/2022/02/08/steamy-cup-in.html",
 				"tags": ["Photos","Timeline"]
